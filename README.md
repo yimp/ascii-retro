@@ -69,8 +69,6 @@ Usage: ./ascii_frontend <rom_path> <core_path> [.sav path] [FPS]
 | `[.sav path]` | *(Optional)* Path to the SRAM save file (e.g., `saves/pokeemerald.sav`) |
 | `[FPS]`       | *(Optional)* Target frames per second (default is 120 if omitted) |
 
-以下是你可以添加到 `README.md` 的一个新的部分，名为 **“Known Limitations & Controls”**，它详细列出了当前未实现的功能和默认按键映射，并对它们进行了清晰的解释：
-
 ------
 
 ## Known Limitations & Controls
